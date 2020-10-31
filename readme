@@ -1,0 +1,14 @@
+Get All Medicines  URL https://localhost:44311/api/medicine
+
+Get Specific Medicine Url https://localhost:44311/api/medicine/Tuna
+
+Post URl https://localhost:44311/api/medicine
+
+raw Body {
+    "notes": null,
+    "medicineName": "Tuna",
+    "brand": "NetMeds",
+    "price": 50,
+    "quantity": 0,
+    "expiryDate": "0001-01-01T00:00:00"
+}
